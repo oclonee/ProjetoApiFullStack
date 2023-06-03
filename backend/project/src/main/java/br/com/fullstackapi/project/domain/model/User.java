@@ -1,4 +1,4 @@
-package br.com.fullstackapi.project.model;
+package br.com.fullstackapi.project.domain.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
